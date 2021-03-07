@@ -8,8 +8,3 @@ A QR code image reader for UAS competition
 **Required Packages**
 - OpenCV
 - pyzbar
-
-Code sample taken from [here](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/)
-
-Note: 
-- need to rewrite/update code for our needs
